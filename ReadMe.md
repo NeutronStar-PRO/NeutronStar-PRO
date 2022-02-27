@@ -1,4 +1,3 @@
-# NeutronStar-PRO
-### This is a project about ✨_block chains_✨.
+# BlockChain DAO
 
 Welcome to **NeutronStar-PRO**
