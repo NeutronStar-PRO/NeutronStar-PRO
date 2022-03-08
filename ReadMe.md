@@ -1,3 +1,2 @@
-# BlockChain DAO
-
-Welcome to **NeutronStar-PRO**
+# Welcome to NeutronStar
+Continue to contribute to open source code.
