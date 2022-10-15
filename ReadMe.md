@@ -1,2 +1,3 @@
-# Welcome to NeutronStar
-Continue to contribute to open source code.
+# Hi lovely guys!
+
+I'm Ruster. Trying to learn rust and motoko.
