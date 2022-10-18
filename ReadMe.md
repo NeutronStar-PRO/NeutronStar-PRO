@@ -1,18 +1,12 @@
 <h2 align="center">Hi 👋lovely guys, I'm NeutronStarPRO</h2>
-<h3 align="center">A passionate Rust developer from frontend</h3>
 
 <p align="left"> <a href="https://twitter.com/neutronstar_pro" target="blank"><img src="https://img.shields.io/twitter/follow/neutronstar_pro?logo=twitter&style=for-the-badge" alt="neutronstar_pro" /></a> </p>
 
 - 🔭 I’m currently working on [ICWeBlog](https://github.com/NeutronStarPRO/ICWeBlog)
-
 - 🌱 I’m currently learning **Rust, Dart, TypeScript, JavaScript, C**
-
 - 👯 I’m looking to collaborate on [Rust, BlockChain](https://ewarw-pqaaa-aaaam-qapwa-cai.ic0.app)
-
 - 📝 I regularly write articles on [https://zur5z-byaaa-aaaag-aaxeq-cai.ic0.app](https://zur5z-byaaa-aaaag-aaxeq-cai.ic0.app)
-
 - 💬 Ask me about **IC BlockChain, Rust, ETH**
-
 - ⚡ Fun fact **I'm an introvert.**
 
 <h3 align="left">Languages and Tools:</h3>
