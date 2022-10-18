@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **IC BlockChain, Rust, ETH**
 
-- 📫 How to reach me **nashzhengpro@gmail.com**
-
 - ⚡ Fun fact **I'm an introvert.**
 
 <h3 align="left">Connect with me:</h3>
