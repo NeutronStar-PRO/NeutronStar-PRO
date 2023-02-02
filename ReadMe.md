@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on [ICCookbook](https://github.com/NeutronStarPRO/ICCookbook), [WorkLove](https://github.com/NeutronStarPRO/WorkLove)
 - 🌱 I’m currently learning **Rust, TypeScript, JavaScript, Motoko, C**
-- 👯 I’m looking to collaborate on [Rust, BlockChain](https://ewarw-pqaaa-aaaam-qapwa-cai.ic0.app)
-- 📝 I regularly write articles on [https://zur5z-byaaa-aaaag-aaxeq-cai.ic0.app](https://zur5z-byaaa-aaaag-aaxeq-cai.ic0.app)
+- 👯 I’m looking to collaborate on Rust, BlockChain
+- 📝 I regularly write articles on [my blog](https://zur5z-byaaa-aaaag-aaxeq-cai.ic0.app)
 - 💬 Ask me about **IC BlockChain, Rust, ETH**
 - ⚡ Fun fact I'm an introvert
 
