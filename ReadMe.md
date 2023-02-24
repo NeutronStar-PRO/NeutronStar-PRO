@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Rust, TypeScript, JavaScript, Motoko, C**
 - 👯 I’m looking to collaborate on Rust, BlockChain
 - 📝 I regularly write articles on [my blog](https://zur5z-byaaa-aaaag-aaxeq-cai.ic0.app)
-- 💬 Ask me about **IC BlockChain, Rust, ETH**
+- 💬 Ask me about **Internet Computer, Rust**
 - ⚡ Fun fact I'm an introvert
 
 <h3 align="left">Learning Languages and Tools:</h3>
