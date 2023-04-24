@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋lovely guys, I'm NeutronStarPRO</h2>
 
-<p align="left"> <a href="https://twitter.com/neutronstar_pro" target="blank"><img src="https://img.shields.io/twitter/follow/neutronstar_pro?logo=twitter&style=for-the-badge" alt="neutronstar_pro" /></a> </p>
-
 - 🔭 I’m currently working on [ICCookbook-en](https://github.com/NeutronStarDAO/ICCookBook-English), [ICCookbook-zh](https://github.com/NeutronStarDAO/ICCookBook-Chinese)
 - 🌱 I’m currently learning **Rust, TypeScript, JavaScript, Motoko, C**
 - 👯 I’m looking to collaborate on Rust, BlockChain
