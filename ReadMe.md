@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋lovely guys, I'm NeutronStarPRO</h2>
 
-- 🔭 I’m currently working on [ICCookbook-en](https://github.com/NeutronStarDAO/ICCookBook-English), [ICCookbook-zh](https://github.com/NeutronStarDAO/ICCookBook-Chinese)
+- 🔭 I’m currently working on [ConstellationBook-English](https://github.com/NeutronStarDAO/ConstellationBook-English), [ConstellationBook-Chinese
+](https://github.com/NeutronStarDAO/ConstellationBook-Chinese)
 - 🌱 I’m currently learning **Rust, TypeScript, JavaScript, Motoko, C**
 - 👯 I’m looking to collaborate on Rust, BlockChain
 - 📝 I regularly write articles on [my blog](https://zur5z-byaaa-aaaag-aaxeq-cai.ic0.app)
