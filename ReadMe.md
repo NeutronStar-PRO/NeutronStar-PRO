@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋lovely guys, I'm NeutronStarPRO</h2>
+<h2 align="center">Hi 👋lovely guys, I'm Nash</h2>
 
 - 🔭 I’m currently working on [ConstellationBook-English](https://github.com/NeutronStarDAO/ConstellationBook-English), [ConstellationBook-Chinese
 ](https://github.com/NeutronStarDAO/ConstellationBook-Chinese)
