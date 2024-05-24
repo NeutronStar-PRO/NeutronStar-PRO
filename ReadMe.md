@@ -3,7 +3,7 @@
 ](https://github.com/NeutronStarDAO/ConstellationBook-Chinese)
 - 🌱 I’m currently learning **Rust, TypeScript, JavaScript, Motoko, C**
 - 👯 I’m looking to collaborate on Rust, BlockChain
-- 📝 I regularly write articles on [my blog](https://zur5z-byaaa-aaaag-aaxeq-cai.ic0.app)
+- 📝 I regularly write articles on [ICE CUBE 🧊](https://neutronstardao.github.io/icecube.github.io/), a decentralized social network.
 - 💬 Ask me about **Internet Computer, Motoko, Rust**
 - ⚡ Fun fact I'm an introvert
 
